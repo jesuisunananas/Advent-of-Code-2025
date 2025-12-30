@@ -1,6 +1,6 @@
 This is my repository for following Advent of Code 2025
 
-Run day 1 code with:
+Run day (n) code with:
 ```
-python day1.py
+python day(n).py
 ```
